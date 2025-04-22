@@ -36,14 +36,6 @@ The notebook includes:
 
 ---
 
-## 👤 Student Information
-
-- **Name**: Emi Sekikawa  
-- **Student ID**: 14507608  
-- **Subject**: Fundamentals of Data Analytics  
-
----
-
 ## 📌 Notes
 
 This notebook demonstrates foundational data analysis skills and is intended as an academic submission for the UTS coursework. All code is original unless otherwise stated.
